@@ -1,3 +1,9 @@
-# aws-nodejs-sample-codebuild
-From the BackSpace Academy AWS Certified Associate (4 Cert Pack + Practice Exams) course.
-Sample NodeJS code for the hands-on CI/CD lab of the Deployment section.
+# aws-nodejs-sample-codebuild-codepipeline-ElasticBeanstalk
+
+A sample nodejs app deployed on a ElasticBeanstalk environment using :
+
+Repo : Github
+Build : CodeBuild
+Test Framework : Mocha
+Deployment : CodePipeline
+
